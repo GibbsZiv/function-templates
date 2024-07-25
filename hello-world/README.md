@@ -1,6 +1,6 @@
 # Hello world!
 
-This Function will return the string 'Hello world'.
+This Function will return the string 'Hello world 12'.
 
 ## Environment variables
 
